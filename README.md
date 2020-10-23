@@ -1,6 +1,6 @@
 # bos-altyapi-v12
 
-Altyapı GNU 3.0 Lisansına Uygundur
+Altyapı GNU 3.0 Lisansına Tabidir
 Çalınma Gibi Durumlarda Adli işlemler başlatılacaktır
 
 
