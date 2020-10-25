@@ -9,12 +9,10 @@
   "author": "Mahir",
   "license": "ISC",
   "dependencies": {
-    "@expo/next-adapter": "^2.1.17",
     "canvas": "^2.6.1",
     "discord.js": "github:discordjs/discord.js",
     "fs": "0.0.1-security",
     "path": "^0.12.7",
-    "quick.db": "^7.1.3",
     "sqlite": "^3.0.6",
     "vultrex.db": "^1.1.0"
   }
